@@ -1,0 +1,38 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: 'Courier New', 'Courier', monospace;
+}
+
+header {
+  text-align: center;
+}
+
+h1 {
+  font-size: 4em;
+}
+
+h2 {
+  font-size: 3em;
+}
+
+.action {
+  font-style: italic;
+}
+
+#aLongTimeAgo {
+  color: dodgerblue;
+}
+
+#crawl {
+  color: yellow;
+}
+
+ul {
+  list-style: none;
+}
+
+p {
+  padding: 10px;
+  border: 1px solid red;
+}
